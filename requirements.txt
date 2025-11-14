@@ -1,0 +1,9 @@
+streamlit
+ollama
+GitPython
+tree-sitter
+tree-sitter-python
+tree-sitter-javascript
+RestrictedPython
+watchdog
+typer
